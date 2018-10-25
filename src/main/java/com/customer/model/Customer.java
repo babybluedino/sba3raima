@@ -4,6 +4,9 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+//This line has been added to push changes to git repository
+
+
 @Entity
 @Table(name="Customer")
 public class Customer {
